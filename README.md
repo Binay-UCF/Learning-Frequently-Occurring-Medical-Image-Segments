@@ -14,3 +14,5 @@ Please follow the below steps required for experimental results
  	- also have annotation file ready
 	- to evaluate the model first register the test/val set to detectron2
 5. Apply stage 2 -> operation
+-------------------------------------------------------------------------------
+To get the experimental results run FinalProjectCAP6545.ipynb file. The file is implemented in Jyputer notebook. 
