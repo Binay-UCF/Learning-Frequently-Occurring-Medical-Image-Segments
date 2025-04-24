@@ -16,7 +16,7 @@ Please follow the below steps required for experimental results
 5. Apply stage 2 -> operation
 -------------------------------------------------------------------------------
 To get the experimental results run FinalProjectCAP6545.ipynb file. The file is implemented in Jyputer notebook. 
-Some sample prediction are shown below.
+Some sample predictions are shown below.
 
 
 ![image](https://github.com/user-attachments/assets/906d3c49-ba45-4d26-b2d3-f124fe97d191)
