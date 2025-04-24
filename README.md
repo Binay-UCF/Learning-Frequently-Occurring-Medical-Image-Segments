@@ -1,5 +1,5 @@
 # Learning-Frequently-Occurring-Medical-Image-Segments
-To run the base model follow the below tutorial. 
+To run the base model please follow this tutorial. 
 https://detectron2.readthedocs.io/en/latest/tutorials/install.html
 This tutorial details about all the required installation needed before executing the proposed model file. 
 Dataset can be found from the below link.
