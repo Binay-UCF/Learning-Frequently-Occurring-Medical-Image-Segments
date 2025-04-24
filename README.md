@@ -18,5 +18,5 @@ Please follow the below steps required for experimental results
 To get the experimental results run FinalProjectCAP6545.ipynb file. The file is implemented in Jyputer notebook. 
 Some sample prediction are shown below.
 ![image](https://github.com/user-attachments/assets/906d3c49-ba45-4d26-b2d3-f124fe97d191)
-![image](https://github.com/user-attachments/assets/d9b6725e-7fc2-404d-9769-9213af760377)
 
+![image](https://github.com/user-attachments/assets/9c1b34f0-47a7-4679-a178-88349ed75fa8)
